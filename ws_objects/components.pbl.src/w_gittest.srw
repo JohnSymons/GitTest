@@ -8,7 +8,7 @@ global type w_gittest from window
 integer width = 4754
 integer height = 1980
 boolean titlebar = true
-string title = "GitTest"
+string title = "Git Test"
 boolean controlmenu = true
 boolean minbox = true
 boolean maxbox = true
